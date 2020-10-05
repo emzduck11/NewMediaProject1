@@ -1,3 +1,42 @@
 /* CSS Styles */
 
 
+
+  <style>
+      @font-face{
+        font-family: dreamland;
+        src: url(dreamland/dreamlan.ttf) format ('truetype');
+      }
+        body {
+          background-image: url('images/trippyflower.jpg');
+          color: #fff2b3 ;
+          text-align:center;
+          font-size:500%;
+          font-family: dreamlan;
+        padding: 30px ;
+        }
+        h1{font-family: dreamlan.ttf; }
+        blue{
+          position: absolute;
+          left:50px;
+          top:20%;
+          display: inline block;
+        }
+        orange{  position: absolute;
+          left:50px;
+          top:20%;
+          display: inline block;
+}
+oranger{  position: absolute;
+  left:50px;
+  top:20%;
+  display: inline block;}
+  rainbow2{  position: absolute;
+    left:50px;
+    top:20%;
+    display: inline block;
+  }
+  rainbow{  position: absolute;
+    left:50px;
+    top:20%;
+    display: inline block;}
